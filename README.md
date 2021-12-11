@@ -3,8 +3,8 @@
 Responsive project developed with angular v13 (client-side) and spring boot (server-side) and sqlite DB.
 
 How to run this project:
-1. Clone the repo of the clint side from this link: 
-2. Clone the repo for the server side from this link:
+1. Clone the repo of the clint side from this link:  https://github.com/galabitbul8/Favorites-color-client
+2. Clone the repo for the server side from this link: https://github.com/galabitbul8/favorites-color-server
 3. open the server side in JAVA IDE and run it.
 4. Run `npm start` in the client side 
 5. Navigate to `http://localhost:4200/`.
