@@ -1,14 +1,18 @@
 import { NgModule } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
+import {HttpClientModule} from '@angular/common/http'
 
 import { AppComponent } from './app.component';
+import { BoxColorComponent } from './components/box-color/box-color.component';
 
 @NgModule({
   declarations: [
-    AppComponent
+    AppComponent,
+    BoxColorComponent
   ],
   imports: [
-    BrowserModule
+    BrowserModule,
+    HttpClientModule
   ],
   providers: [],
   bootstrap: [AppComponent]
