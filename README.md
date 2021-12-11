@@ -1,4 +1,5 @@
-# FavoriteColor
+# favorites-color-client
+
 
 Responsive project developed with angular v13 (client-side) and spring boot (server-side) and sqlite DB.
 
